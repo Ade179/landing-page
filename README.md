@@ -1,2 +1,2 @@
 # landing-page
-TOP: lnding page
+TOP: landing page
